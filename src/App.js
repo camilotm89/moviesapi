@@ -89,6 +89,7 @@ function App() {
    }
 
    window.addEventListener('scroll', onScroll);
+   
 
 
   return (
